@@ -17,11 +17,11 @@ with open("Readme.md","w+") as f: #w+ overwrites the existing readme file
             subdirs.remove('.git') #remove this folder from the list of directories to iterate over 
         path = root.split(os.sep) #split string by os's separator
         indent = (len(path) - 1) * " "
-        f.write(f'{indent}* {foldername}\n')
+        f.write(f'{indent}* {foldername}\n') if foldername != "." else None
         for file in files:
             if file == "makereadme.py" or file.upper() == "README.MD":
                 continue
             year = file[:4] #get the first four digits as the year 
             title = os.path.splitext(file)[0][5:] #remove extension, then remove date
-            url = f'https://github.com/sbgass/{repo_name}/{file}'
+            url = f'https://github.com/sbgass/{repo_name}/{file}'.replace(" ", "%20")
             f.write(f'{indent} * [{title}]({url}) ({year})\n')
