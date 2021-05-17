@@ -2,8 +2,8 @@
 
 
 * .
- * [Neocognitron by Fukushima](https://github.com/sbgass/cv-reading-list/1980 Neocognitron by Fukushima.pdf) (1980)
- * [A computer algorithm for reconstructing a scene from two projections](https://github.com/sbgass/cv-reading-list/1981 A computer algorithm for reconstructing a scene from two projections.pdf) (1981)
+ * [Neocognitron by Fukushima] (https://github.com/sbgass/cv-reading-list/1980 Neocognitron by Fukushima.pdf) (1980)
+ * [A computer algorithm for reconstructing a scene from two projections] (https://github.com/sbgass/cv-reading-list/1981 A computer algorithm for reconstructing a scene from two projections.pdf) (1981)
  * [The Detection of Intensity Changes by Computer and Biological Vision Systems](https://github.com/sbgass/cv-reading-list/1983 The Detection of Intensity Changes by Computer and Biological Vision Systems.pdf) (1983)
  * [A Computational Approach to Edge Detection](https://github.com/sbgass/cv-reading-list/1986 A Computational Approach to Edge Detection.pdf) (1986)
  * [Learning Internal Representations by Error Propagation](https://github.com/sbgass/cv-reading-list/1986 Learning Internal Representations by Error Propagation.pdf) (1986)
