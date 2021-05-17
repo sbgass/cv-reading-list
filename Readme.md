@@ -21,7 +21,7 @@
  * [(LeNet) Gradient-Based Learning Appplied to Document Recognition](https://github.com/sbgass/cv-reading-list/1998%20(LeNet)%20Gradient-Based%20Learning%20Appplied%20to%20Document%20Recognition.pdf) (1998)
  * [Construction and Refinement of Panoramic Mosaics with Global and Local Alignment](https://github.com/sbgass/cv-reading-list/1998%20Construction%20and%20Refinement%20of%20Panoramic%20Mosaics%20with%20Global%20and%20Local%20Alignment.pdf) (1998)
  * [Plenoptic Image Editing](https://github.com/sbgass/cv-reading-list/1998%20Plenoptic%20Image%20Editing.pdf) (1998)
- * [Review- Active Shape Models](https://github.com/sbgass/cv-reading-list/1998%20Review-%20Active%20Shape%20Models.pdf) (1998)
+   * [Review- Active Shape Models](https://github.com/sbgass/cv-reading-list/1998%20Review-%20Active%20Shape%20Models.pdf) (1998)
  * [Self-Calibration and Metric Reconstruction Inspite of Varying and Unknown Intrinsic Camera Parameters](https://github.com/sbgass/cv-reading-list/1999%20Self-Calibration%20and%20Metric%20Reconstruction%20Inspite%20of%20Varying%20and%20Unknown%20Intrinsic%20Camera%20Parameters.pdf) (1999)
  * [Active Appearance Models](https://github.com/sbgass/cv-reading-list/2001%20Active%20Appearance%20Models.pdf) (2001)
  * [Active Appearance Models Revisited](https://github.com/sbgass/cv-reading-list/2004%20Active%20Appearance%20Models%20Revisited.pdf) (2004)
