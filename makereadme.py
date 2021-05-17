@@ -23,5 +23,6 @@ with open("Readme.md","w+") as f: #w+ overwrites the existing readme file
                 continue
             year = file[:4] #get the first four digits as the year 
             title = os.path.splitext(file)[0][5:] #remove extension, then remove date
-            url = f'https://github.com/sbgass/{repo_name}/{file}'.replace(" ", "%20")
+            url = f'https://github.com/sbgass/{repo_name}/blob/main/{file}'.replace(" ", "%20")
+            indent = (len(path)) * "  "
             f.write(f'{indent} * [{title}]({url}) ({year})\n')
